@@ -1,4 +1,4 @@
-# enrollment_system
+# frontend
 
 ## Project setup
 ```
